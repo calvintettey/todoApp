@@ -1,6 +1,6 @@
 # A Simple To-do App
 
-### This is a simple to-do app that can take tasks with the added ability of deleting them when completed
+### This is a simple mobile to-do app that can take tasks with the added ability to delete them when completed. Built in JavaScript with React-Native and Expo
 
 ## Built With
 * React Native
